@@ -1,0 +1,24 @@
+# ---- Datos y cálculo ----
+numpy>=1.26,<2.0
+pandas>=2.2,<2.3
+
+# ---- Aprendizaje automático ----
+scikit-learn>=1.4,<1.6
+xgboost>=2.0,<2.2
+shap>=0.45,<0.47
+
+# ---- Visualización ----
+matplotlib>=3.8,<3.10
+
+# ---- Fuente de datos NBA ----
+nba_api>=1.4,<2.0
+
+# ---- HTTP ----
+requests>=2.31,<3.0
+
+# ---- Notebooks ----
+jupyter>=1.0
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.29
+ipywidgets>=8.1
